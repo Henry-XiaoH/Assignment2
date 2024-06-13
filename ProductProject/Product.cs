@@ -31,13 +31,13 @@ namespace Assignment2
 
 
         // Increase the stock
-        public void Increase(int stockIn)
+        public void IncreaseStock(int stockIn)
         {
             Stock += stockIn;
         }
 
         // decrease the stock
-        public void Decrease(int stockOut) {
+        public void DecreaseStock(int stockOut) {
             if (stockOut <= Stock)
             {
                 Stock -= stockOut;
