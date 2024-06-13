@@ -1,4 +1,4 @@
-namespace ProductTest
+namespace ECommerceApp
 {
     public class Tests
     {

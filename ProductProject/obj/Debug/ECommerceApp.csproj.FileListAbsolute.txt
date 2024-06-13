@@ -1,0 +1,7 @@
+C:\Users\xiao3\OneDrive - Conestoga College\PROG8171\Assignment2\Assignment2\ProductProject\bin\Debug\ProductProject.exe.config
+C:\Users\xiao3\OneDrive - Conestoga College\PROG8171\Assignment2\Assignment2\ProductProject\bin\Debug\ProductProject.exe
+C:\Users\xiao3\OneDrive - Conestoga College\PROG8171\Assignment2\Assignment2\ProductProject\bin\Debug\ProductProject.pdb
+C:\Users\xiao3\OneDrive - Conestoga College\PROG8171\Assignment2\Assignment2\ProductProject\obj\Debug\ECommerceApp.csproj.AssemblyReference.cache
+C:\Users\xiao3\OneDrive - Conestoga College\PROG8171\Assignment2\Assignment2\ProductProject\obj\Debug\ECommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\xiao3\OneDrive - Conestoga College\PROG8171\Assignment2\Assignment2\ProductProject\obj\Debug\ProductProject.exe
+C:\Users\xiao3\OneDrive - Conestoga College\PROG8171\Assignment2\Assignment2\ProductProject\obj\Debug\ProductProject.pdb

@@ -378,13 +378,13 @@
           }
         }
       },
-      "ProductProject/1.0.0": {
+      "ECommerceApp/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/ProductProject.dll": {}
+          "bin/placeholder/ECommerceApp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ProductProject.dll": {}
+          "bin/placeholder/ECommerceApp.dll": {}
         }
       }
     }
@@ -979,19 +979,19 @@
         "version.txt"
       ]
     },
-    "ProductProject/1.0.0": {
+    "ECommerceApp/1.0.0": {
       "type": "project",
-      "path": "../ProductProject/ProductProject.csproj",
-      "msbuildProject": "../ProductProject/ProductProject.csproj"
+      "path": "../ProductProject/ECommerceApp.csproj",
+      "msbuildProject": "../ProductProject/ECommerceApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "ECommerceApp >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.7.1",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.6.1",
       "NUnit3TestAdapter >= 4.4.2",
-      "ProductProject >= 1.0.0",
       "coverlet.collector >= 3.2.0"
     ]
   },
@@ -1001,9 +1001,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xiao3\\OneDrive - Conestoga College\\PROG8171\\Assignment2\\Assignment2\\ProductTest\\ProductTest.csproj",
-      "projectName": "ProductTest",
-      "projectPath": "C:\\Users\\xiao3\\OneDrive - Conestoga College\\PROG8171\\Assignment2\\Assignment2\\ProductTest\\ProductTest.csproj",
+      "projectUniqueName": "C:\\Users\\xiao3\\OneDrive - Conestoga College\\PROG8171\\Assignment2\\Assignment2\\ProductTest\\ECommerceAppTest.csproj",
+      "projectName": "ECommerceAppTest",
+      "projectPath": "C:\\Users\\xiao3\\OneDrive - Conestoga College\\PROG8171\\Assignment2\\Assignment2\\ProductTest\\ECommerceAppTest.csproj",
       "packagesPath": "C:\\Users\\xiao3\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\xiao3\\OneDrive - Conestoga College\\PROG8171\\Assignment2\\Assignment2\\ProductTest\\obj\\",
       "projectStyle": "PackageReference",
@@ -1022,8 +1022,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\xiao3\\OneDrive - Conestoga College\\PROG8171\\Assignment2\\Assignment2\\ProductProject\\ProductProject.csproj": {
-              "projectPath": "C:\\Users\\xiao3\\OneDrive - Conestoga College\\PROG8171\\Assignment2\\Assignment2\\ProductProject\\ProductProject.csproj"
+            "C:\\Users\\xiao3\\OneDrive - Conestoga College\\PROG8171\\Assignment2\\Assignment2\\ProductProject\\ECommerceApp.csproj": {
+              "projectPath": "C:\\Users\\xiao3\\OneDrive - Conestoga College\\PROG8171\\Assignment2\\Assignment2\\ProductProject\\ECommerceApp.csproj"
             }
           }
         }

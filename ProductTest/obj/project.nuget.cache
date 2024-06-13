@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jVm89zysoknhJXx8NSAuXk0Ug/bOQvzz/V4c44tqG0Z/L9C6hTQPWfMAKhtsFDpGcdT7XDmSuGCwfKcu+ehnSA==",
+  "dgSpecHash": "EQOy5DBX5X7occnbmhNCtu00a1Y380F8HGo0ZI+OUoWA79mRly0s/eFA//mQvJvFgG4vitI+kntJvd9p554xSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xiao3\\OneDrive - Conestoga College\\PROG8171\\Assignment2\\Assignment2\\ProductTest\\ProductTest.csproj",
+  "projectFilePath": "C:\\Users\\xiao3\\OneDrive - Conestoga College\\PROG8171\\Assignment2\\Assignment2\\ProductTest\\ECommerceAppTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xiao3\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\xiao3\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",

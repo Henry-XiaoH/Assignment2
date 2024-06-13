@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{41906330-C13A-4393-A7F9-1E781CD652E9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ProductProject</RootNamespace>
+    <RootNamespace>ECommerceApp</RootNamespace>
     <AssemblyName>ProductProject</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
